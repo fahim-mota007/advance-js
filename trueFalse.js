@@ -8,7 +8,7 @@
 // Truthy
 // '0',''[]
 let name = 'false';
-if(name || name ==){
+if(name || name ){
     console.log("condition is true");
 
 }
